@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "404365969950",
+    "firebase_url": "https://tripmanager-fbe6c.firebaseio.com",
+    "project_id": "tripmanager-fbe6c",
+    "storage_bucket": "tripmanager-fbe6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404365969950:android:0bcb98131049f02b",
+        "android_client_info": {
+          "package_name": "com.bignerdranch.android.tripmanagerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404365969950-8np4j9qsdmq5ebd3kdruf0jqo6kargru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiMVVt68aZee-oB2ZEV76C_f_gtg4RS_I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
